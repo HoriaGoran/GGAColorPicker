@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+	<View 
+	    android:id="@+id/test_to_color"
+	    android:layout_width="match_parent"
+	    android:layout_height="100dp"
+	    android:layout_alignParentTop="true"
+	    />
+	
+	<TextView 
+	    android:id="@+id/test_to_text"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/test_to_color"
+	    android:gravity="center"
+	    android:layout_margin="10dp"
+	    android:textSize="22sp"
+	    />
+    
+	<Button 
+	    android:id="@+id/test_get_color"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentBottom="true"
+	    android:text="Grab Color"
+	    />
+    
+</RelativeLayout>
