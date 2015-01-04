@@ -47,5 +47,5 @@ public void onActivityResult(int requestCode, int resultCode, Intent data)
 }
 ```
 
-![GGAColorPicker1](https://raw2.github.com/HoriaGoran/GGAColorPicker/master/GGAColorPicker-lib/images/Screenshot_2014-02-09-15-13-05.png)
-![GGAColorPicker1](https://raw2.github.com/HoriaGoran/GGAColorPicker/master/GGAColorPicker-lib/images/Screenshot_2014-02-09-15-13-35.png)
+![GGAColorPicker1](https://raw.githubusercontent.com/HoriaGoran/GGAColorPicker/master/GGAColorPicker-lib/images/Screenshot_2014-02-09-15-13-05.png)
+![GGAColorPicker1](https://raw.githubusercontent.com/HoriaGoran/GGAColorPicker/master/GGAColorPicker-lib/images/Screenshot_2014-02-09-15-13-35.png)
